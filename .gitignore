@@ -1,0 +1,10 @@
+plugins/*
+!plugins/pom.xml
+
+target/
+
+venv/
+
+.idea
+*.iws
+*.iml

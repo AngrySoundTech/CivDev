@@ -1,0 +1,32 @@
+{
+	"plugins": [
+		{ "name": "AttrHider", "url": "https://github.com/CivClassic/AttrHider.git" },
+		{ "name": "BanStick", "url": "https://github.com/CivClassic/BanStick.git" },
+		{ "name": "Bastion", "url": "https://github.com/CivClassic/Bastion.git" },
+		{ "name": "Brewery", "url": "https://github.com/CivClassic/Brewery.git" },
+		{ "name": "Citadel", "url": "https://github.com/CivClassic/Citadel.git" },
+		{ "name": "CivChat2", "url": "https://github.com/CivClassic/CivChat2.git" },
+		{ "name": "CivDuties", "url": "https://github.com/CivClassic/CivDuties.git" },
+		{ "name": "CivModCore", "url": "https://github.com/CivClassic/CivModCore.git" },
+		{ "name": "CivSpy", "url": "https://github.com/CivClassic/CivSpy.git" },
+		{ "name": "CropControl", "url": "https://github.com/civrepo/CropControl.git" },
+		{ "name": "EssenceGlue", "url": "https://github.com/CivClassic/EssenceGlue.git" },
+		{ "name": "ExilePearl", "url": "https://github.com/CivClassic/ExilePearl.git" },
+		{ "name": "FactoryMod", "url": "https://github.com/CivClassic/FactoryMod.git" },
+		{ "name": "Finale", "url": "https://github.com/CivClassic/Finale.git" },
+		{ "name": "HiddenOre", "url": "https://github.com/CivClassic/HiddenOre.git" },
+		{ "name": "ItemExchange", "url": "https://github.com/CivClassic/ItemExchange.git" },
+		{ "name": "JukeAlert", "url": "https://github.com/CivClassic/JukeAlert.git" },
+		{ "name": "KiraBukkitGateway", "url": "https://github.com/CivClassic/KiraBukkitGateway.git" },
+		{ "name": "NameColors", "url": "https://github.com/CivClassic/NameColors.git" },
+		{ "name": "NameLayer", "url": "https://github.com/CivClassic/NameLayer.git" },
+		{ "name": "OldEnchanting", "url": "https://github.com/CivClassic/OldEnchanting.git" },
+		{ "name": "RailSwitch", "url": "https://github.com/CivClassic/RailSwitch.git" },
+		{ "name": "RandomSpawn", "url": "https://github.com/CivClassic/RandomSpawn.git" },
+		{ "name": "RealisticBiomes", "url": "https://github.com/CivClassic/RealisticBiomes.git" },
+		{ "name": "SimpleAdminHacks", "url": "https://github.com/CivClassic/SimpleAdminHacks.git" },
+		{ "name": "TradePlus", "url": "https://github.com/CivClassic/TradePlus.git" },
+		{ "name": "WorldBorder", "url": "https://github.com/CivClassic/WorldBorder.git" }
+	],
+	"pluginsFolder": "./plugins/"
+}

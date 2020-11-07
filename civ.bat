@@ -1,0 +1,1 @@
+python civ.py %1
